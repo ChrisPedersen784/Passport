@@ -1,0 +1,65 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+}
+
+form {
+  margin: auto;
+  width: 50%;
+  padding: 5%;
+}
+
+.intro {
+  text-align: center;
+  margin-top: 5%;
+  padding: 2% 0 2% 0;
+
+}
+
+.intro h1 {
+  text-align: center;
+}
+
+.loginRegister {
+  padding: 1%;
+}
+
+
+.secretheading{
+  text-align: center;
+}
+
+.rentalForm {
+  padding: 2% 2% 1% 2%;
+  margin-bottom: 20%;
+}
+
+.succes {
+  text-align: center;
+  padding: 5% 0 0 45%;
+}
+
+.table {
+  width: 50%;
+  margin-left: 25%;
+  text-align: center;
+}
+
+.secretContainer{
+  padding: 5% 0 5% 0;
+  margin-top: 5%;
+  text-align: center;
+  background-color: #E9FAFF;
+  color: black;
+  width: 60%;
+  margin-left: 20%;
+  text-decoration: underline;
+}
+
+.secretButtons{
+  text-decoration: none;
+  margin-top: 5%;
+}
